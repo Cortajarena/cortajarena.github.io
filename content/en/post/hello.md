@@ -5,9 +5,9 @@ description: "A guide on adding cover images and audio articles"
 draft: false
 author: "Author Name"
 type: "post"
-tags: ["authoring", "content", "media", "audio", "cover", "images", "alt"]
-categories: ["authoring"]
-cover: 'https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_and_styrofoam_%E2%80%93_electrostatic_charge_%28235112299%29.jpg'
+tags: ["AI", "content", "media", "audio", "cover", "images", "alt"]
+categories: ["AI"]
+cover: 'https://miro.medium.com/v2/resize:fit:1400/1*tx1hBW8kWKfxkWCzF4An8A.jpeg'
 alt: 'Cat named Cooper with styrofoam on his fur due to electrostatic charge.'
 translationKey: 'media'
 stage: 'budding'
