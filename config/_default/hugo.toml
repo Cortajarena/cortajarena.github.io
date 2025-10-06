@@ -153,9 +153,9 @@ enableRobotsTXT = true
     ## Logo configuration
     [params.logo]
         ## Light mode logo mark
-        # logoMark = 'https://example.com/logoMark.svg'
+        # logoMark = 'https://www.svgrepo.com/show/382605/3d-design-3d-irregular-cylinder-3d-shape-geometric-geometry-irregular-cylinder.svg'
         ## Dark mode logo mark
-        # logoMarkDark = 'https://example.com/logoMarkDark.svg'
+        # logoMarkDark = 'https://www.svgrepo.com/show/382605/3d-design-3d-irregular-cylinder-3d-shape-geometric-geometry-irregular-cylinder.svg'
         ## Enable logo type
         logoType = true
 
@@ -164,7 +164,7 @@ enableRobotsTXT = true
         ## Enable flowlines
         flowlines = true
         ## Limit number of flowlines
-        flowlinesLimit = 21
+        flowlinesLimit = 20
     
     ## Home page display settings
     [params.home]
@@ -180,7 +180,7 @@ enableRobotsTXT = true
         ## Enable text justification
         justifying = false
         ## Disable paragraph indentation
-        noIndent = false
+        noIndent = true
         ## Use sans-serif fonts as default
         sfdefault = false
         ## Show colophon section (including QR code)
@@ -195,7 +195,7 @@ enableRobotsTXT = true
     ## Search configuration
     [params.search]
         ## Enable search functionality, please index your site first
-        enable = true
+        enable = false
         ## Use pagefind search when javascript enabled, currently only 'pagefind' is supported, further options to be determined
         pagefind = true
         ## fallback searchbox when javascript disabled, currently the options limited to 'mojeek', otherwise duckduckgo will be used

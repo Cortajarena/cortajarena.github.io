@@ -1,11 +1,14 @@
 ---
 type: 'slide'
-title: 'CNVX.ai News Feed'
+title: 'CNVX Arxiv ML feed'
 params:
     headless: true
     alias: 'https://github.com/foxihd/hugo-brewm'
 ---
 
-A curated news feed from trusted sources updated hourly.
+This is a slide with RSS feed.
+RSS shortcodes allow you to integrate and display feeds from various sources like YouTube channels or external blogs.
 
-{{< rss url="https://www.aitrends.com/feed/" >}}
+Note that The Hugo Release News RSS feed listed below displays only titles since content descriptions are not included in the RSS feed xml.
+
+{{< rss url="https://rss.arxiv.org/rss/cs.AI+stat.ML" >}}

@@ -138,11 +138,11 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Logo configuration
     [params.logo]
         ## Light mode logo mark
-        logoMark = 'https://example.com/logoMark.svg'
+        logoMark = 'https://www.svgrepo.com/show/382605/3d-design-3d-irregular-cylinder-3d-shape-geometric-geometry-irregular-cylinder.svg'
         ## Dark mode logo mark
-        logoMarkDark = 'https://example.com/logoMarkDark.svg'
+        logoMarkDark = 'https://www.svgrepo.com/show/382605/3d-design-3d-irregular-cylinder-3d-shape-geometric-geometry-irregular-cylinder.svg'
         ## Enable logo type
-        logoType = true
+        logoType = false
 
     ## Post display settings
     [params.posts]
