@@ -1,5 +1,5 @@
 ---
-cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/20.svg'
+cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/40.svg'
 keepAspectRatio: true
 ---
 
